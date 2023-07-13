@@ -18,4 +18,4 @@ Me encanta liderar nuevos proyectos y trabajar en equipo para alcanzar resultado
 
 Estoy comprometido con la excelencia y la mejora continua. No temo salir de mi zona de confort y siempre busco nuevos desafíos. Si estás interesado en colaborar en un proyecto emocionante o necesitas asistencia en el desarrollo web, ¡no dudes en contactarme!
 
-Puedes encontrarme en [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/luis-zerna-ramos)) y [Instagram]([https://www.tusitio.com](https://instagram.com/variable_soporte?igshid=Y2IzZGU1MTFhOQ==)). ¡Espero tener la oportunidad de trabajar contigo y explorar juntos el fascinante mundo de la programación!
+Puedes encontrarme en [LinkedIn]([https://www.linkedin.com/in/luis-zerna-ramos]) y [Instagram]([https://instagram.com/variable_soporte?igshid=Y2IzZGU1MTFhOQ==]). ¡Espero tener la oportunidad de trabajar contigo y explorar juntos el fascinante mundo de la programación!
